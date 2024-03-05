@@ -1,10 +1,17 @@
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import './App.css';
+import Sidebar from './components/Sidebar';
 
 function App() {
   return (
-    <div className="App">
-      Ayoo
-    </div>
+    <>
+      <Router>
+        <Sidebar />
+        <Routes>
+          <Route path='/' />
+        </Routes>
+      </Router>
+    </>
   );
 }
 

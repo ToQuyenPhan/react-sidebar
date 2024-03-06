@@ -1,6 +1,6 @@
 # React Sidebar
 
-> This project was simple react application with a designed side bar.
+> This project was simple React application with a designed side bar.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,7 +11,7 @@
 * [Contact](#contact)
 
 ## General Information
-- This project was a react application with a simple designed side bar I created while learning React.
+- This project was a React application with a simple designed side bar I created while learning React.
 
 ## Technologies Used
 - React - version 18.2.
